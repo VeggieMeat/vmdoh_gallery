@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the VMDOH Gallery feature.
+ */
+
+include_once 'vmdoh_gallery.features.inc';
