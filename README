@@ -1,0 +1,6 @@
+This Feature export simply provides content types, fields, and a View for a
+simple photo gallery in Drupal 7. How you display the gallery is up to you,
+but my preferred method is to attach the packaged Content Pane to a Panel.
+
+This is simply a starting point and probably saves you about a hour or so
+of work.
